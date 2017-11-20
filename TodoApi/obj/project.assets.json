@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\brian\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\Repos\\WebAPI-Todo\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "c:\\users\\brian\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\brian\\Repos\\WebAPI-Todo\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\brian\\source\\repos\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\brian\\Repos\\WebAPI-Todo\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

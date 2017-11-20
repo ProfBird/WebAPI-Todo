@@ -9,3 +9,14 @@ c:\users\brian\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.Asse
 c:\users\brian\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
 c:\users\brian\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
 c:\users\brian\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\brian\Repos\WebAPI-Todo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
